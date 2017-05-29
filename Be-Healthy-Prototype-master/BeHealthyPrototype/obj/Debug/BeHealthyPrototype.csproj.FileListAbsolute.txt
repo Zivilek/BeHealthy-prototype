@@ -1,0 +1,30 @@
+c:\users\pj.pj_home\documents\visual studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.exe.config
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.exe
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.pdb
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.csprojResolveAssemblyReference.cache
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.MainWindow.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.Properties.Resources.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.csproj.GenerateResource.Cache
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.exe
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.pdb
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.MainForm.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PremiumVersionBooking.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.GooglePlay.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PremiumVersionActivation.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PhysicalEndurance.resources
+C:\Users\PJ.PJ_HOME\Documents\Visual Studio 2015\Projects\BeHealthyPrototype\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.Help.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.exe.config
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.exe
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.pdb
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.exe
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\bin\Debug\BeHealthyPrototype.pdb
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.GooglePlay.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.Help.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.MainForm.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.MainWindow.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PhysicalEndurance.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PremiumVersionActivation.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.PremiumVersionBooking.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.Properties.Resources.resources
+C:\Users\Zivile\Desktop\Be-Healthy-Prototype-master\Be-Healthy-Prototype-master\BeHealthyPrototype\obj\Debug\BeHealthyPrototype.csproj.GenerateResource.Cache

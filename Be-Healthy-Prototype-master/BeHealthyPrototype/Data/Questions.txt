@@ -1,0 +1,14 @@
+1. Kiek kartu per savaite sportuojate?
+- 0
+- 1-2 kartus
+- 3-4 kartus
+- Daugiau nei 5 kartus
+2. Kokiu sportu dazniausiai uzsiimate?
+- Stiprinanciu sirdies veikla (cardio) - ejimas, letas begimas, vaziavimas dviraciu
+- Stiprinanciu raumenis - treniruokliai  sporto saleje, svarmene kilnojimas,  jegos pratimai
+- ivairiapusiskomis treniruotemis - ivaraus tempo begimas, plaukimas, slidinejimas, aktyvios jogos treniruotes
+- Sportu beveik neuzsiimu
+3. Kuris is apibudinimu labiausiai atitinka jusu kasdieni gyvenimo buda?
+- Aktyvus - daug ir daznai vaikstau, vazineju dviraciu, dirbu nesedima darba, turiu aktyviu hobiu
+- Vidutiniskas - kartais vaikstau/vazinëju dviraciu, dirbu dazniausiai sedima darba, kartais uzsiimu aktyviomis veiklomis
+- Pasyvus - visur vazineju automobiliu/autobusu, dirbu sedima darba, neturiu aktyviu hobiu.
